@@ -1,3 +1,4 @@
+# Written to fill current drive by truncating file size. Will create new file if existing Garbage file is present
 import shutil
 import os
 
