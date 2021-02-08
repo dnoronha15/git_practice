@@ -6,6 +6,7 @@ import os
 # function to confirm user exit
 def press_to_exit():
     input("Press Enter to exit...")
+    print("Goodbye")
     exit()
 
 
